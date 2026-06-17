@@ -19,6 +19,13 @@ A full-stack Team Task & Project Management SaaS application.
 | Frontend | React, Vite, Redux Toolkit, Tailwind CSS |
 | Auth     | JWT, bcryptjs                         |
 
+<img width="943" height="431" alt="Screenshot 2026-06-17 144347" src="https://github.com/user-attachments/assets/0f13ab7b-1d30-457d-84f9-c06c6febdbb5" />
+
+<img width="935" height="430" alt="Screenshot 2026-06-17 144413" src="https://github.com/user-attachments/assets/b7233e58-892c-4bdb-bb94-06a1e596d281" />
+
+<img width="958" height="365" alt="Screenshot 2026-06-17 144427" src="https://github.com/user-attachments/assets/948d5141-5279-4ac3-99d1-4bccfc00bbac" />
+
+
 ## Project Structure
 
 ```
